@@ -1,0 +1,5 @@
+# ignore all data files
+*.dat
+
+# ignore all results (scripts are already versioned!)
+results/
